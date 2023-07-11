@@ -1,0 +1,1 @@
+hostname=10.10.142.23;port=5432;username=postgres;password=Uniph0re@4215;database=BSES_report;filepath=D:/Projects/BSES/BESE_report_interact/files/;rest_time_ms=120000;batch_api=http://10.10.142.36:8080/rds/transactions/batch?;result_api=http://10.10.142.36:8080/rds/transactions/batch/result/;kpi_filePath=D:/Projects/BSES/BESE_report_interact/output/
